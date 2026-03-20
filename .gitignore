@@ -1,1 +1,6 @@
+/vendor/
+/storage/uploads/
+/storage/*.log
 .env
+.env.*
+!.env.example
